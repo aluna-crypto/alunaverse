@@ -1,0 +1,14 @@
+{
+  "hardhat": {
+    "Alunaverse": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "AlunaverseMinter": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+  },
+  "rinkeby": {
+    "Alunaverse": "0x142C20e501FdC3Edb6fa43939bc098ffDB550e90",
+    "AlunaverseMinter": "0xa34B9F569632d47a33316Cb3d05f187859302AC4"
+  },
+  "mainnet": {
+    "Alunaverse": "0xE6268FD6970E72266B136EbBF625140dEa26668d",
+    "AlunaverseMinter": "0x5e59238ee7Eb3B96be74A8C67Bf256E0e84F25C8"
+  }
+}
