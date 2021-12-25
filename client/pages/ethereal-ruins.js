@@ -79,7 +79,7 @@ export default function EtherealRuins() {
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>The explorer finds no clear instructions on how to interact with it. Being in its presence however, seems to have a rejuvinating effect. The more he connects with the structure, the more it seems to come alive.</Typography>
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Testing his patience, the Alunaut remains in its presence hoping for further contact.</Typography>
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>This NFT grants holders extra perks on the Aluna.Social platform and AlunaDAO.</Typography>
-              <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Aluna commissioned 3D Artist Axel Schoterman to create this animation which was further soundtracked by Aluna HQ.</Typography>
+              <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Aluna commissioned 3D Artist <Link href="https://axelschoterman.com/" target="_blank" rel="noopener">Axel Schoterman</Link> to create this animation which was further soundtracked by Aluna HQ.</Typography>
             </Container>
             <Container maxWidth='md' component='div' sx={{
               display: 'flex',

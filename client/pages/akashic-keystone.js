@@ -76,10 +76,10 @@ export default function AkashicKeystone() {
               alignItems: 'center',
             }}>
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>A mysterious relic discovered within the Ethereal Ruins. Uncovering the object proved to be a challenging test of wit, patience and presence for the Alunaut.</Typography>
-              <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>The object is covered in engravings from an unkown language, remnants of a not yet documented civilisation. The keystone emanates a constant humming sound, hovers and seems to return to a steady clockwise rotation.</Typography>
+              <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>The object is covered in engravings from an unknown language, remnants of a not yet documented civilisation. The keystone emanates a constant humming sound, hovers and seems to return to a steady clockwise rotation.</Typography>
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Being in its presence facilitates a state of mental clarity and physical rejuvination, particularly when focusing one’s mind to it.</Typography>
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>This NFT grants holders extra perks on the Aluna.Social platform and AlunaDAO.</Typography>
-              <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Aluna commissioned 3D Artist Axel Schoterman to create this animation which was further soundtracked by Aluna HQ.</Typography>
+              <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Aluna commissioned 3D Artist <Link href="https://www.behance.net/tth_cmn" target="_blank" rel="noopener">Cosmin Toth</Link> and <Link href="https://diorn.tv/" target="_blank" rel="noopener">Dorin Croitoru</Link> to create this animation which was further soundtracked by Aluna HQ.</Typography>
             </Container>
             <Container maxWidth='md' component='div' sx={{
               display: 'flex',

@@ -79,7 +79,7 @@ export default function CosmicTraveller() {
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Unsure where the beacon’s signal might lead him or even how long it might take to locate the source, he follows the signal to narrow down its possible location.</Typography>
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>The journey is an extraordinary one. As he ventures into the reaches of space, he discovers not only more about the universe but also himself.</Typography>
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>This NFT grants holders extra perks on the Aluna.Social platform and AlunaDAO.</Typography>
-              <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Aluna commissioned 3D Artist Axel Schoterman to create this animation which was further soundtracked by Aluna HQ.</Typography>
+              <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Aluna commissioned 3D Artist <Link href="https://axelschoterman.com/" target="_blank" rel="noopener">Axel Schoterman</Link> to create this animation which was further soundtracked by Aluna HQ.</Typography>
             </Container>
             <Container maxWidth='md' component='div' sx={{
               display: 'flex',

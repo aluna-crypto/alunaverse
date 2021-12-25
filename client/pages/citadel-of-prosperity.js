@@ -79,7 +79,7 @@ export default function CitadelOfProsperity() {
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>A ray emanates from within the central pyramid structure. It seems to be harnessing an unknown source and abundantly provides the city with free energy.</Typography>
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Safe and nourished within its protective dome, the Alunaut dubs this place the ‘Citadel of Prosperity’ and takes steps to call other pioneers to uncover its mysterious functions and purpose.</Typography>
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>This NFT grants holders extra perks on the Aluna.Social platform and AlunaDAO.</Typography>
-              <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Aluna commissioned 3D Artist Axel Schoterman to create this animation which was further soundtracked by Aluna HQ.</Typography>
+              <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Aluna commissioned 3D Artist <Link href="https://axelschoterman.com/" target="_blank" rel="noopener">Axel Schoterman</Link> to create this animation which was further soundtracked by Aluna HQ.</Typography>
             </Container>
             <Container maxWidth='md' component='div' sx={{
               display: 'flex',

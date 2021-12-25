@@ -69,7 +69,7 @@ export default function FAQ() {
             <BodyText variant='h6' component='p' sx={{marginTop: '2rem'}}>How do I get / mint "Cosmic Traveller"?</BodyText>
             <BodyText variant='body1' component='p' color='#9C9C9C'>Your address must be whitelisted to mint for free (gas-only).</BodyText>
             <BodyText variant='body1' component='p' color='#9C9C9C'>Each whitelisted address can only mint 1 "Cosmic Traveller" NFT.</BodyText>
-            <BodyText variant='body1' component='p' color='#9C9C9C'>After your address has been added to the whitelist, go to <Link href='/cosmic-traveller'>https://alunaverse.vercel.app/cosmic-traveller</Link> and connect your wallet to mint.</BodyText>
+            <BodyText variant='body1' component='p' color='#9C9C9C'>After your address has been added to the whitelist, go to <Link href="/cosmic-traveller">Cosmic Traveller</Link> and connect your wallet to mint.</BodyText>
 
             <BodyText variant='h6' component='p' sx={{marginTop: '2rem'}}>When can I start minting?</BodyText>
             <BodyText variant='body1' component='p' color='#9C9C9C'>Addresses whitelisted for Genesis Mint can start minting on 24th Dec 2021.</BodyText>
