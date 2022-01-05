@@ -9,6 +9,7 @@ import Container from '@mui/material/Container';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
+import Link from '@mui/material/Link';
 import Grid from '@mui/material/Grid';
 
 import Typewriter from 'typewriter-effect';
@@ -79,7 +80,7 @@ export default function AkashicKeystone() {
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>The object is covered in engravings from an unknown language, remnants of a not yet documented civilisation. The keystone emanates a constant humming sound, hovers and seems to return to a steady clockwise rotation.</Typography>
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Being in its presence facilitates a state of mental clarity and physical rejuvination, particularly when focusing one’s mind to it.</Typography>
               <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>This NFT grants holders extra perks on the Aluna.Social platform and AlunaDAO.</Typography>
-              <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Aluna commissioned 3D Artist <Link href="https://www.behance.net/tth_cmn" target="_blank" rel="noopener">Cosmin Toth</Link> and <Link href="https://diorn.tv/" target="_blank" rel="noopener">Dorin Croitoru</Link> to create this animation which was further soundtracked by Aluna HQ.</Typography>
+              <Typography variant='h6' component='p' align='center' sx={{fontSize: '20px', lineHeight: '30px', margin: '1rem 0'}}>Aluna commissioned 3D Artists <Link href="https://www.behance.net/tth_cmn" target="_blank" rel="noopener">Cosmin Toth</Link> and <Link href="https://diorn.tv/" target="_blank" rel="noopener">Dorin Croitoru</Link> to create this animation which was further soundtracked by Aluna HQ.</Typography>
             </Container>
             <Container maxWidth='md' component='div' sx={{
               display: 'flex',

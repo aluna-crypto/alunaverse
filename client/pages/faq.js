@@ -69,11 +69,11 @@ export default function FAQ() {
             <BodyText variant='h6' component='p' sx={{marginTop: '2rem'}}>How do I get / mint "Cosmic Traveller"?</BodyText>
             <BodyText variant='body1' component='p' color='#9C9C9C'>Your address must be whitelisted to mint for free (gas-only).</BodyText>
             <BodyText variant='body1' component='p' color='#9C9C9C'>Each whitelisted address can only mint 1 "Cosmic Traveller" NFT.</BodyText>
-            <BodyText variant='body1' component='p' color='#9C9C9C'>After your address has been added to the whitelist, go to <Link href="/cosmic-traveller">Cosmic Traveller</Link> and connect your wallet to mint.</BodyText>
+            <BodyText variant='body1' component='p' color='#9C9C9C'>After your address has been added to the whitelist, go to <Link href="/cosmic-traveller">Cosmic Traveller</Link> and connect your wallet, change quantity to 1, then click mint. Confirm the transaction on your web3 wallet to complete the mint.</BodyText>
 
             <BodyText variant='h6' component='p' sx={{marginTop: '2rem'}}>When can I start minting?</BodyText>
             <BodyText variant='body1' component='p' color='#9C9C9C'>Addresses whitelisted for Genesis Mint can start minting on 24th Dec 2021.</BodyText>
-            <BodyText variant='body1' component='p' color='#9C9C9C'>Addresses whitelisted for Public Mint can start minting on 7th Jan 2022.</BodyText>
+            <BodyText variant='body1' component='p' color='#9C9C9C'>Addresses whitelisted for Public Mint can start minting on 14th Jan 2022.</BodyText>
             <BodyText variant='body1' component='p' color='#9C9C9C'>All whitelisted address can mint 1 Cosmic Traveller each, until all 150 have been minted.</BodyText>
 
             <BodyText variant='h6' component='p' sx={{marginTop: '2rem'}}>What is Genesis Mint and who is whitelisted?</BodyText>
@@ -94,10 +94,10 @@ export default function FAQ() {
               <BodyText variant='body1' component='li' color='#9C9C9C'><Link href="https://aluna.social/signup" target="_blank" rel="noopener">Create an Aluna.Social account</Link></BodyText>
               <BodyText variant='body1' component='li' color='#9C9C9C'><Link href="https://aluna.social/my/account/web3" target="_blank" rel="noopener">Connect your MetaMask wallet</Link></BodyText>
               <BodyText variant='body1' component='li' color='#9C9C9C'><Link href="https://aluna.social/my/account/api_keys" target="_blank" rel="noopener">Connect your Exchange API</Link></BodyText>
+              <BodyText variant='body1' component='li' color='#9C9C9C'>You must have a minimum balance of $500 on your connected exchange account to qualify.</BodyText>
             </ol>
-            <BodyText variant='body1' component='p' color='#9C9C9C'>You must have a minimum balance of $500 on your connected exchange account to qualify.</BodyText>
-            <BodyText variant='body1' component='p' color='#9C9C9C'>Snapshot will be taken on 6th January 2022.</BodyText>
-            <BodyText variant='body1' component='p' color='#9C9C9C'>Whitelisted addresses will be able to start minting at 2PM UTC, 7th January 2022.</BodyText>
+            <BodyText variant='body1' component='p' color='#9C9C9C'>Snapshot will be taken on 13th January 2022.</BodyText>
+            <BodyText variant='body1' component='p' color='#9C9C9C'>Whitelisted addresses will be able to start minting at 1PM UTC, 14th January 2022.</BodyText>
 
             <BodyText variant='h6' component='p' sx={{marginTop: '2rem'}}>How do I know if I'm whitelisted?</BodyText>
             <BodyText variant='body1' component='p' color='#9C9C9C'>Go to <Link href="/cosmic-traveller">Cosmic Traveller</Link> and connect your wallet.</BodyText>
@@ -107,11 +107,14 @@ export default function FAQ() {
             <BodyText variant='h6' component='p' sx={{marginTop: '2rem'}}>I don't see the connect wallet button / I can't connect my wallet</BodyText>
             <BodyText variant='body1' component='p' color='#9C9C9C'>Make sure you are already logged in to MetaMask, and on Ethereum mainnet network. Refresh the browser and enlarge window. Use a desktop instead of mobile. If none of these works restart your browser and hit ctrl+shift+r to empty cache on website. Then log into MetaMask and try again.</BodyText>
 
+            <BodyText variant='h6' component='p' sx={{marginTop: '2rem'}}>What is the royalty % of resales?</BodyText>
+            <BodyText variant='body1' component='p' color='#9C9C9C'>5%.</BodyText>
+
             <BodyText variant='h6' component='p' sx={{marginTop: '2rem'}}>What happens to proceeds from (re)sales?</BodyText>
             <BodyText variant='body1' component='p' color='#9C9C9C'>All proceeds & royalties are added to the <Link href="https://etherscan.io/address/0xFDfdc90bb26240aca0eE8829A607E2f89Fe428EB" target="_blank" rel="noopener">AlunaDAO Treasury</Link>, which is governed by ALN and ALNV holders.</BodyText>
 
             <BodyText variant='h6' component='p' sx={{marginTop: '2rem'}}>I need further help!</BodyText>
-            <BodyText variant='body1' component='p' color='#9C9C9C'>Please reach out to us on the <Link href="https://discord.gg/cDDjCAtcxK" target="_blank" rel="noopener">Aluna discord</Link>.</BodyText>
+            <BodyText variant='body1' component='p' color='#9C9C9C'>Please reach out to us on <Link href="https://discord.gg/cDDjCAtcxK" target="_blank" rel="noopener">discord</Link>.</BodyText>
           </Container>
         </Container>
         <Container maxWidth={false} component="div" sx={{padding: { xs: 0 }, position: 'relative'}}>
