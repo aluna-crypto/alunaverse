@@ -1,0 +1,35 @@
+{
+  "name": "Alunaverse",
+  "version": "0.1.0",
+  "private": true,
+  "license": "None",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@0xsequence/multicall": "^0.29.6",
+    "@emotion/cache": "^11.4.0",
+    "@emotion/react": "^11.4.1",
+    "@emotion/server": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
+    "@mui/core": "^5.0.0-alpha.50",
+    "@mui/icons-material": "^5.0.3",
+    "@mui/lab": "^5.0.0-alpha.50",
+    "@mui/material": "^5.0.3",
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/frame-connector": "^6.0.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "@web3-react/walletconnect-connector": "^6.2.7",
+    "@web3-react/walletlink-connector": "^6.2.7",
+    "ethers": "^5.4.7",
+    "next": "11.x",
+    "notistack": "^2.0.2",
+    "react": "17.x",
+    "react-dom": "17.x",
+    "react-reveal": "^1.2.2",
+    "react-visibility-sensor": "^5.1.1",
+    "typewriter-effect": "^2.18.2"
+  }
+}
